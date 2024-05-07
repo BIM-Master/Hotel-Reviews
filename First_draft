@@ -1,0 +1,3 @@
+pip install pandas
+import pandas as pd
+Hotel_df = pd.read_csv("/content/Hotel_Reviews_Real.xlsx")
